@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+numpy
+flask
+werkzeug
+google-generativeai>=0.3.2
+pillow
+base64io
